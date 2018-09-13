@@ -13,6 +13,5 @@
   "author": "Lucas",
   "license": "ISC",
   "dependencies": {
-    "react": "^16.5.0"
   }
 }
