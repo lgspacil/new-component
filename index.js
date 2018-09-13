@@ -1,10 +1,14 @@
-import { isMobile } from 'mobile-device-detect';
-import mobileTesting from "./Testing/mobileTesting";
-import webTesting from "./Testing/webTesting";
+import React, {Component} from 'react';
+import { View, Text } from 'react-native';
 
-if (isMobile){
-    {mobileTesting}
-} else {
-    {webTesting}
+class CoolComponent extends Component {
+    render() {
+        return (
+            <View>
+                <Text>I am a cool component in mobile!</Text>
+            </View>
+        )
+    }
 }
 
+export default CoolComponent;
