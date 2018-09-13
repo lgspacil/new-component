@@ -13,5 +13,6 @@
   "author": "Lucas",
   "license": "ISC",
   "dependencies": {
+    "mobile-device-detect": "^0.2.3"
   }
 }
