@@ -1,0 +1,19 @@
+{
+  "name": "cool-component",
+  "version": "1.0.0",
+  "description": "a cool component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cool",
+    "component"
+  ],
+  "author": "Lucas",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.5.0",
+    "react-native": "^0.57.0"
+  }
+}
